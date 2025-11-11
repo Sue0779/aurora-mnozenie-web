@@ -1,5 +1,3 @@
-# aurora-mnozenie-web
-# aurora-mnozenie-web
 # Aurora Mnożenie Web
 
 Aurora Mnożenie Web to mała aplikacja Flask do ćwiczenia tabliczki mnożenia. 
